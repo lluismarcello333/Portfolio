@@ -81,13 +81,18 @@
         "name": "Jogo de Naves",
         "url": "https://github.com/lluismarcello333/Jogo-de-Naves",
         "github": true
+      },
+      {
+        "name": "Portfolio",
+        "url":"https://portfolio-seven-beige-95.vercel.app/",
+        "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Analista de Suporte N1 / idwall",
+        "name": "Analista de suporte técnico N1 / idwall",
         "period": "03/2022 - 10/2023",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e colaborar com tantas inovações de mercado."
+        "description": "Na Idwall Tecnologia LTDA, tive a oportunidade de me envolver com uma variedade de APIs e sistemas de banco de dados. Minha responsabilidade era fornecer suporte técnico, resolvendo desafios para clientes de diferentes portes, como SMBs, empresas de médio porte e grandes empresas, incluindo clientes estratégicos para a organização. Minha capacidade de compreender as necessidades dos clientes e transformá-las em soluções práticas me permitiu estabelecer relacionamentos sólidos e aprimorar a eficiência da equipe. Minhas habilidades técnicas incluem proficiência em linguagens de programação, como JavaScript e Python. Sinto-me confortável trabalhando com uma variedade de sistemas de gerenciamento de banco de dados, como PostgreSQL, MySQL, MongoDB e DataBricks. Além disso, possuo experiência na integração de APIs em aplicativos e na resolução de problemas relacionados a essas integrações. Esta combinação de habilidades técnicas e capacidade de compreender as necessidades dos clientes foi fundamental para o sucesso na entrega de soluções eficazes e no suporte técnico de qualidade."
       }
     ]
   }
