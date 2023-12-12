@@ -48,6 +48,14 @@
           "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/95014c22d137a57230e84c2881e119226d1b6c8b/assets/img/icon/sql.svg"
         },
         {
+          "name": "mongoDB",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/mongodb.png"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/PostgreSQL.png"
+        },
+        {
           "name": "git",
           "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/git.png"
         },
