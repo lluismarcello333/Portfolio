@@ -1,12 +1,23 @@
 {
-    "name": "Luiz Marcelo F S Araujo",
+    "name": "Luiz Marcelo",
     "photo": "https://avatars.githubusercontent.com/u/98034550?v=4",
     "job": "FullStack developer",
     "location": "Rio de Janeiro - RJ",
     "phone": "(21) 965502519",
     "email": "lluismarcello333@gmail.com",
     "skills": {
+      "hardSkills": [
 
+      ],
+      "softSkills": [
+        "Flexibilidade",
+        "Organização",
+        "Comunição",
+        "liderança",
+        "Comprometimento com resultados",
+        "Trabalho em Equipe",
+        "Facilidade com tarefas práticas"
+      ]
     },
     "languages": [
       "Português BR",
