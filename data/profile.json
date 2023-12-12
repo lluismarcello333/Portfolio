@@ -7,7 +7,54 @@
     "email": "lluismarcello333@gmail.com",
     "skills": {
       "hardSkills": [
-
+        {
+          "name": "NodeJs",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/Node-js.png"
+        },
+        {
+          "name": "Html",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/HTML5.png"
+        },
+        {
+          "name": "Typescript",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/Typescript.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/angular.png"
+        },
+        {
+          "name": "css",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/js.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/react.png"
+        },
+        {
+          "name": "python",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/95014c22d137a57230e84c2881e119226d1b6c8b/assets/img/icon/python.svg"
+        },
+        {
+          "name": "FastApi",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/fastapi.jpg"
+        },
+        {
+          "name": "Sql",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/95014c22d137a57230e84c2881e119226d1b6c8b/assets/img/icon/sql.svg"
+        },
+        {
+          "name": "git",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/main/assets/img/icon/git.png"
+        },
+        {
+          "name": "gitHub",
+          "logo": "https://raw.githubusercontent.com/lluismarcello333/Portfolio/95014c22d137a57230e84c2881e119226d1b6c8b/assets/img/icon/gitHub.svg"
+        }
       ],
       "softSkills": [
         "Flexibilidade",
