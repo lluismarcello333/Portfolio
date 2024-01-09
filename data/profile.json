@@ -81,18 +81,18 @@
     ],
     "portfolio": [
       {
-        "name": "Criação de uma Pokedex",
-        "url": "https://pokedex-iota-ruby.vercel.app/",
+        "name": "Pokedex",
+        "url": "https://github.com/lluismarcello333/Pokedex",
         "github": true
       },
       {
         "name": "Jogo de Naves",
-        "url": "https://jogo-de-naves-fawn.vercel.app/",
+        "url": "https://github.com/lluismarcello333/Jogo-de-Naves",
         "github": true
       },
       {
         "name": "Previsão do Tempo",
-        "url":"https://lluismarcello333.github.io/Previsao-do-Tempo/",
+        "url":"https://github.com/lluismarcello333/Previsao-do-Tempo",
         "github": true
       }
     ],
